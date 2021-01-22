@@ -1,6 +1,7 @@
 # Rock-Paper-scissors
 
-What I learned:<br>
+This project was completed fot The Odin Project.
+Live Demo: http://jlbeans.github.io/Rock-Paper-scissors
 
 -How to validate input using a while loop and an array <br>
 -How to use the Math.floor(Math.random()) method to get a <br>
